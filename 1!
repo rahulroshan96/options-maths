@@ -1,0 +1,24 @@
+first commit
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Sat Jan 30 22:48:08 2021 +0530
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   MANIFEST
+#	new file:   __init__.py
+#	new file:   dist/options-maths-0.1.tar.gz
+#	new file:   options_maths/Maths.py
+#	new file:   options_maths/__init__.py
+#	new file:   options_maths/__pycache__/Maths.cpython-37.pyc
+#	new file:   options_maths/__pycache__/__init__.cpython-37.pyc
+#	new file:   setup.cfg
+#	new file:   setup.py
+#
+# Untracked files not listed
